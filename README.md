@@ -6,7 +6,7 @@ This project analyzes carbon emissions data across various industries to assess 
 
 **Methodology**
 
-**Date Identification: **The most recent year in the dataset was determined using the MAX(year) query.
+**Date Identification:** The most recent year in the dataset was determined using the MAX(year) query.
 
 **Industry Analysis:** For the most recent year, the following SQL query was executed:
 
